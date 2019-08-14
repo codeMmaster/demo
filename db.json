@@ -10,7 +10,7 @@
   ],
   "products": [
     { "id": 1, "title": "Milk", "price": 1.00 },
-    { "id": 2, "body": "Starbucks Coffee", "price": 1.00 }
+    { "id": 2, "title": "Starbucks Coffee", "price": 1.00 }
   ],
   "profile": {
     "name": "typicode"
